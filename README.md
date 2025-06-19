@@ -9,8 +9,11 @@ A simple Java project demonstrating **Factory, Strategy, Decorator, and Template
 - Add ingredients (Milk / Caramel) — *Decorator Pattern*
 - Prepare coffee via defined steps — *Template Method Pattern*
 
-![image](https://github.com/user-attachments/assets/030a7736-2237-43b5-99a7-cad45ea7247b)
-![image](https://github.com/user-attachments/assets/d858e993-431b-4e44-aabe-eb9e2f16569d)
+## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/030a7736-2237-43b5-99a7-cad45ea7247b" width="400" height="300">
+
+<img src="https://github.com/user-attachments/assets/d858e993-431b-4e44-aabe-eb9e2f16569d" width="400" height="300">
 
 ## ▶️ Run Instructions
 
